@@ -1,0 +1,2 @@
+# Host file to block trackers and advertisements
+
